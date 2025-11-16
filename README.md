@@ -21,7 +21,7 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 ## How to Use
 
 ## Supported Features
-- **TrollPad (MultiTasking)** (iOS 18.0+)
+- **TrollPad (MultiTasking)** (iOS 18.0+) (require respring, read below)
   
 - **TrollStore Installer (iOS 15.2 ~ 16.7RC (20H18) & 17.0)**
 - **Dynamic Island** (iOS 16.0+)
@@ -47,6 +47,14 @@ Please do not use camera silence for the purpose of voyeurism. For photographing
 - **Sleep apnea** (iOS 18.0+)
 - **Find My Friend (KH/A devices)**
 
-**Some more features will be added soon. Please look forward to them** ❤️
+**Some upcoming features:m** ❤️
+- **Disable call record greetings**
+- **Allow modify custom path**
+
+
+**You will need to do a respring to take effect, download this [ipa](https://github.com/34306/mdc0/releases/download/1.0/respringapp.ipa) to respring**
 
 ## icon
+
+## Credit
+- [Duy Tran](https://github.com/khanhduytran0) for the exploit writeup
